@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="MainTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2023-02-27T10:58:49" hostname="DESKTOP-HAPLGAQ" time="0.004">
+  <properties/>
+  <testcase name="getname" classname="MainTest" time="0.004"/>
+  <testcase name="sum" classname="MainTest" time="0.0"/>
+  <testcase name="difference" classname="MainTest" time="0.0"/>
+  <system-out><![CDATA[TEST-BEFORE
+TEST-AFTER
+TEST-BEFORE
+TEST-AFTER
+TEST-BEFORE
+TEST-AFTER
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
